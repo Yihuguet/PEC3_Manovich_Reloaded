@@ -2,7 +2,7 @@
 
 Autor: Yihui Huguet
 
-Fecha: 27.05.2024
+Data: 27.05.2024
 
 ## 1. **La Hibridació d’Alexa: De l’Assistent Real a l’Assistent Virtual**
 
