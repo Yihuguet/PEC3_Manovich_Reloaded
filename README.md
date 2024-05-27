@@ -41,7 +41,7 @@ L’evolució de les ulleres de realitat virtual (VR) ha passat de ser una simpl
 
 ### De l’Experimentació a la Innovació
 
-Els primers intents de crear experiències de realitat virtual van començar als anys seixanta i setanta, amb pioners com Ivan Sutherland, que va desenvolupar el primer sistema de realitat virtual interactiva anomenat "The Sword of Damocles". Aquest dispositiu era voluminós i limitat en funcionalitat, però va establir les bases per als futurs desenvolupaments en la realitat virtual. A la dècada dels vuitanta i noranta, es van fer més esforços per comercialitzar la realitat virtual, tot i que les limitacions tecnològiques i els alts costos van impedir la seva adopció massiva.
+Els primers intents de crear experiències de realitat virtual van començar als anys seixanta i setanta, amb pioners com Ivan Sutherland, que va desenvolupar el primer sistema de realitat virtual interactiva anomenat "The Sword of Damocles" (FOTO INFERIOR) . Aquest dispositiu era voluminós i limitat en funcionalitat, però va establir les bases per als futurs desenvolupaments en la realitat virtual. A la dècada dels vuitanta i noranta, es van fer més esforços per comercialitzar la realitat virtual, tot i que les limitacions tecnològiques i els alts costos van impedir la seva adopció massiva.
 
 ![VR2](https://delta2020.com/images/a1.jpg) 
 
@@ -67,7 +67,11 @@ La transició de les ulleres de realitat virtual des de les seves primeres etape
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* The sword of democles: https://en.wikipedia.org/wiki/The_Sword_of_Damocles_(virtual_reality)
+* Realitat Virtual: https://es.wikipedia.org/wiki/Realidad_virtual
+* Alexa: https://ca.wikipedia.org/wiki/Amazon_Alexa
+* Alexa història: https://www.netatmo.com/es-es/smart-home-guide/amazon-alexa-how-does-it-work
 
 
 ----
