@@ -43,9 +43,9 @@ L’evolució de les ulleres de realitat virtual (VR) ha passat de ser una simpl
 
 Els primers intents de crear experiències de realitat virtual van començar als anys seixanta i setanta, amb pioners com Ivan Sutherland, que va desenvolupar el primer sistema de realitat virtual interactiva anomenat "The Sword of Damocles". Aquest dispositiu era voluminós i limitat en funcionalitat, però va establir les bases per als futurs desenvolupaments en la realitat virtual. A la dècada dels vuitanta i noranta, es van fer més esforços per comercialitzar la realitat virtual, tot i que les limitacions tecnològiques i els alts costos van impedir la seva adopció massiva.
 
-La tecnologia de realitat virtual va experimentar un renaixement a principis de la dècada de 2010, gràcies a avenços en el maquinari, el programari i la potència de computació. Oculus VR, fundada per Palmer Luckey, va llançar el primer prototip d'Oculus Rift el 2012, capturant l'interès de desenvolupadors i consumidors. Aquest dispositiu va oferir una experiència immersiva molt superior als seus predecessors, utilitzant pantalles de gran resolució, sensors de seguiment de moviment i un disseny ergonòmic. La seva adquisició per Facebook el 2014 va impulsar encara més el desenvolupament i la popularització de la realitat virtual.
+![VR](https://www.researchgate.net/publication/326444949/figure/fig1/AS:649382688993284@1531836306775/The-Sword-of-Damocles.png) 
 
-![VR](https://deusens.com/uploads/blog/2021/01/oculusquest.webp) 
+La tecnologia de realitat virtual va experimentar un renaixement a principis de la dècada de 2010, gràcies a avenços en el maquinari, el programari i la potència de computació. Oculus VR, fundada per Palmer Luckey, va llançar el primer prototip d'Oculus Rift el 2012, capturant l'interès de desenvolupadors i consumidors. Aquest dispositiu va oferir una experiència immersiva molt superior als seus predecessors, utilitzant pantalles de gran resolució, sensors de seguiment de moviment i un disseny ergonòmic. La seva adquisició per Facebook el 2014 va impulsar encara més el desenvolupament i la popularització de la realitat virtual.
 
 ### Transformació del Joc i Més Enllà
 
@@ -54,6 +54,8 @@ Les ulleres de realitat virtual modernes representen una hibridació sofisticada
 ### Beneficis de la Realitat Virtual
 
 La hibridació de les ulleres de realitat virtual ha aportat nombrosos beneficis. En primer lloc, ha revolucionat la indústria del joc, oferint experiències interactives i immersives que no són possibles amb les pantalles tradicionals. En el camp de l’educació, les ulleres VR permeten als estudiants explorar entorns històrics, científics i culturals de manera immersiva, millorant la retenció i la comprensió dels conceptes. També han trobat aplicacions en la medicina, on els professionals poden practicar cirurgies en entorns virtuals abans de realitzar-les en pacients reals.
+
+![VR](https://deusens.com/uploads/blog/2021/01/oculusquest.webp) 
 
 Tot i els seus avantatges, la hibridació de les ulleres de realitat virtual planteja diversos desafiaments. Les preocupacions sobre la salut, com la fatiga ocular i el mareig, són significatives per als usuaris prolongats. A més, la realitat virtual pot aïllar socialment, ja que els usuaris es desconnecten del món físic i de les interaccions humanes reals. També hi ha qüestions sobre la privacitat i la seguretat de les dades recollides pels dispositius VR.
 
