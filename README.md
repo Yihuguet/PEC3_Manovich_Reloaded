@@ -12,7 +12,7 @@ L’evolució dels assistents personals ha experimentat un canvi profund amb l�
 
 Històricament, els assistents personals han estat figures clau en moltes organitzacions i llars, oferint suport en tasques administratives, gestió de temps, i coordinació d’activitats. Aquests assistents reals eren essencials per a la gestió efectiva d’horaris, la planificació de reunions i la realització de múltiples tasques simultàniament. El seu valor radicava en la capacitat d’entendre les necessitats humanes i respondre-hi amb solucions personalitzades i humanitzades.
 
-![Alexa](https://i.ebayimg.com/images/g/ohsAAOSwru5l5bjj/s-l400.jpg) 
+![Alexa](https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2022/11/03/alexa.jpeg) 
 
 ### La Naixença dels Assistents Virtuals
 
@@ -44,7 +44,7 @@ Els primers intents de crear experiències de realitat virtual van començar als
 
 La tecnologia de realitat virtual va experimentar un renaixement a principis de la dècada de 2010, gràcies a avenços en el maquinari, el programari i la potència de computació. Oculus VR, fundada per Palmer Luckey, va llançar el primer prototip d'Oculus Rift el 2012, capturant l'interès de desenvolupadors i consumidors. Aquest dispositiu va oferir una experiència immersiva molt superior als seus predecessors, utilitzant pantalles de gran resolució, sensors de seguiment de moviment i un disseny ergonòmic. La seva adquisició per Facebook el 2014 va impulsar encara més el desenvolupament i la popularització de la realitat virtual.
 
-![Alexa](https://deusens.com/uploads/blog/2021/01/oculusquest.webp) 
+![VR](https://deusens.com/uploads/blog/2021/01/oculusquest.webp) 
 
 ### Transformació del Joc i Més Enllà
 
