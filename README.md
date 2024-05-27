@@ -2,18 +2,8 @@
 
 ### Recurso de aprendizaje de Cultura Digital 
 
-
-Autor: 
-
-
-Fecha: 
-
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
-
-
-
-
-
+Autor: Yihui Huguet
+Fecha: 27.05.2024
 
 # La Hibridació d’Alexa: De l’Assistent Real a l’Assistent Virtual
 
