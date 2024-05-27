@@ -25,6 +25,8 @@ Històricament, els assistents personals han estat figures clau en moltes organi
 
 ### La Naixença dels Assistents Virtuals
 
+https://i.ebayimg.com/images/g/ohsAAOSwru5l5bjj/s-l400.jpg
+
 L’arribada dels ordinadors personals i la posterior revolució digital van preparar el terreny per al desenvolupament d’assistents virtuals. Els primers intents es van centrar en programes bàsics de gestió de tasques i recordatoris, però no va ser fins a l’avenç en la intel·ligència artificial i el processament del llenguatge natural que els assistents virtuals van començar a semblar-se realment als seus homòlegs humans. Alexa, llançada per Amazon el 2014, es va convertir ràpidament en una de les figures més prominents d’aquesta nova era, capturant la imaginació i l'interès del públic global.
 
 ### Alexa: Una Revolució en l’Assistència
