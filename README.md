@@ -34,7 +34,7 @@ La hibridació d'Alexa ha comportat nombrosos avantatges. En primer lloc, ha dem
 ### Desafiaments i Consideracions
 Tot i els seus avantatges, la hibridació d’Alexa planteja diversos desafiaments. Les preocupacions sobre la privacitat i la seguretat són significatives, ja que els dispositius com Alexa recopilen una gran quantitat de dades personals. A més, la dependència creixent de la tecnologia pot reduir les interaccions humanes, afectant potencialment les habilitats socials i emocionals.
 
-## Conclusió
+### Conclusió
 La transició d’un assistent real a un de virtual amb Alexa exemplifica la hibridació tecnològica que defineix l’era moderna. Aquesta evolució ha ampliat les capacitats dels assistents personals, fent-los més accessibles, eficients i integrats en les nostres vides quotidianes. Tot i això, també ens recorda la necessitat d’equilibrar els beneficis de la tecnologia amb consideracions ètiques i socials. En definitiva, Alexa és un testimoni del poder transformador de la tecnologia quan es combina amb la innovació humana.
 
 
