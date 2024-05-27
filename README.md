@@ -43,7 +43,7 @@ L’evolució de les ulleres de realitat virtual (VR) ha passat de ser una simpl
 
 Els primers intents de crear experiències de realitat virtual van començar als anys seixanta i setanta, amb pioners com Ivan Sutherland, que va desenvolupar el primer sistema de realitat virtual interactiva anomenat "The Sword of Damocles". Aquest dispositiu era voluminós i limitat en funcionalitat, però va establir les bases per als futurs desenvolupaments en la realitat virtual. A la dècada dels vuitanta i noranta, es van fer més esforços per comercialitzar la realitat virtual, tot i que les limitacions tecnològiques i els alts costos van impedir la seva adopció massiva.
 
-![VR](https://www.researchgate.net/publication/326444949/figure/fig1/AS:649382688993284@1531836306775/The-Sword-of-Damocles.png) 
+![VR](https://www.researchgate.net/publication/321661684/figure/fig2/AS:569183058776064@1512715224848/The-Sword-of-Damocles-by-Ivan-Sutherland.png) 
 
 La tecnologia de realitat virtual va experimentar un renaixement a principis de la dècada de 2010, gràcies a avenços en el maquinari, el programari i la potència de computació. Oculus VR, fundada per Palmer Luckey, va llançar el primer prototip d'Oculus Rift el 2012, capturant l'interès de desenvolupadors i consumidors. Aquest dispositiu va oferir una experiència immersiva molt superior als seus predecessors, utilitzant pantalles de gran resolució, sensors de seguiment de moviment i un disseny ergonòmic. La seva adquisició per Facebook el 2014 va impulsar encara més el desenvolupament i la popularització de la realitat virtual.
 
