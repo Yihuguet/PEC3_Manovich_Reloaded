@@ -35,7 +35,7 @@ La transició d’un assistent real a un de virtual amb Alexa exemplifica la hib
 
 
 
-## La Hibridació de les Ulleres de Realitat Virtual: De l’Experimentació Inicial a una Eina Virtual
+## 2. La Hibridació de les Ulleres de Realitat Virtual: De l’Experimentació Inicial a una Eina Virtual
 
 L’evolució de les ulleres de realitat virtual (VR) ha passat de ser una simple curiositat tecnològica a convertir-se en una eina poderosa i versàtil que transforma la manera en què experimentem el món digital. Aquest canvi reflecteix un cas destacat de hibridació tecnològica, en què les idees inicials sobre la realitat augmentada han estat radicalment ampliades per la tecnologia moderna. Aquesta transició ha afectat no només la nostra interacció amb la tecnologia, sinó també la percepció i l’experiència del món digital.
 
