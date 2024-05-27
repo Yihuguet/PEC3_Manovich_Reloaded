@@ -15,9 +15,8 @@ Fecha:
 
 
 
-# Re-descubriendo la hibridacion: Caso 1
+# La Hibridació d’Alexa: De l’Assistent Real a l’Assistent Virtual
 
-## La Hibridació d’Alexa: De l’Assistent Real a l’Assistent Virtual
 L’evolució dels assistents personals ha experimentat un canvi profund amb l’arribada d'Alexa, l’assistent virtual d'Amazon. Aquest canvi representa un cas fascinant de hibridació tecnològica, on les funcions tradicionals dels assistents humans han estat transformades i amplificades per la tecnologia digital. Aquesta transició no només ha afectat la manera en què interactuem amb la tecnologia, sinó que també ha redefinit el concepte mateix d’assistència personal.
 
 ## L'Assistent Real: Un Paper Fonamental
